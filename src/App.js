@@ -11,7 +11,9 @@ function App() {
     "🍋": "Lemon",
     "🍍": "Pineapple",
     "🥭": "Mango",
-    "🍎": "Red Apple"
+    "🍎": "Red Apple",
+    "🍓": "Strawberry",
+    "🍐": "Pear"
   };
 
   function handeleChange(e) {
